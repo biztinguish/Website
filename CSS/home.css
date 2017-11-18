@@ -1,0 +1,112 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #333;
+}
+
+.top-bar-wrapper {
+	background-color: black;
+}
+
+.top-bar-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.top-button {
+    float: left;
+}
+
+.top-button a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.top-button a:hover {
+    background-color: #666;
+}
+
+.top-button .active {
+	background-color: #666;
+}
+
+.logo-bar {
+
+}
+
+.logo-bar {
+	background-color: #666;
+	padding-bottom: 50px;
+}
+
+.logo-bar-wrapper {
+	width: 70%;
+	margin: 0 auto;
+	background-color: #666;
+}
+
+#logo {
+	padding-top: 25px;
+	font-size: 100px;
+}
+
+.nav-bar {
+
+}
+
+.nav-bar-wrapper {
+	background-color: black;
+}
+
+.nav-bar-nav {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 75px;
+    overflow: hidden;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.nav-button {
+	float: left;
+}
+
+.nav-button a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 40px;
+    text-decoration: none;
+}
+
+.nav-button a:hover {
+	background-color: #333;
+}
+
+.marquee-bar {
+
+}
+
+.marquee-bar-wrapper {
+	padding-top: 10px;
+	width: 70%;
+	margin: 0 auto;
+}
+
+#marquee-bar-marquee {
+	background-color: black;
+	padding: 10px;
+	font-size: 20px;
+	color: #999;
+}
